@@ -1,0 +1,8 @@
+/*AMR VIS
+January 18, 2018*/
+
+html, body, #map {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
